@@ -1,0 +1,176 @@
+[submodule "apps/Rater-Mc-Ratey-Face"]
+	path = apps/Rater-Mc-Ratey-Face
+	url = git@github.com:Tyler-Losinski/Rater-Mc-Ratey-Face.git
+	branch = master
+[submodule "apps/HackerNews-React-Native"]
+	path = apps/HackerNews-React-Native
+	url = git@github.com:iSimar/HackerNews-React-Native.git
+	branch = master
+[submodule "apps/ziliun-react-native"]
+	path = apps/ziliun-react-native
+	url = git@github.com:sonnylazuardi/ziliun-react-native.git
+	branch = master
+[submodule "apps/FinanceReactNative"]
+	path = apps/FinanceReactNative
+	url = git@github.com:7kfpun/FinanceReactNative.git
+	branch = master
+[submodule "apps/SplashWalls"]
+	path = apps/SplashWalls
+	url = git@github.com:nashvail/SplashWalls.git
+	branch = master
+[submodule "apps/NBAreact"]
+	path = apps/NBAreact
+	url = git@github.com:jbkuczma/NBAreact.git
+	branch = master
+[submodule "apps/react-native-dribbble-app"]
+	path = apps/react-native-dribbble-app
+	url = git@github.com:catalinmiron/react-native-dribbble-app.git
+	branch = master
+[submodule "apps/ZhiHuDaily-React-Native"]
+	path = apps/ZhiHuDaily-React-Native
+	url = git@github.com:race604/ZhiHuDaily-React-Native.git
+	branch = master
+[submodule "apps/react-native-gitfeed"]
+	path = apps/react-native-gitfeed
+	url = git@github.com:xiekw2010/react-native-gitfeed.git
+	branch = master
+[submodule "apps/react-native-nba-app"]
+	path = apps/react-native-nba-app
+	url = git@github.com:wwayne/react-native-nba-app.git
+	branch = master
+[submodule "apps/react-native-reddit-reader"]
+	path = apps/react-native-reddit-reader
+	url = git@github.com:akveo/react-native-reddit-reader.git
+	branch = master
+[submodule "apps/react-native-basketball"]
+	path = apps/react-native-basketball
+	url = git@github.com:FaridSafi/react-native-basketball.git
+	branch = master
+[submodule "apps/f8app"]
+	path = apps/f8app
+	url = git@github.com:fbsamples/f8app.git
+	branch = master
+[submodule "apps/ndash"]
+	path = apps/ndash
+	url = git@github.com:alexindigo/ndash.git
+	branch = master
+[submodule "apps/ChainReactApp"]
+	path = apps/ChainReactApp
+	url = git@github.com:infinitered/ChainReactApp.git
+	branch = master
+[submodule "apps/what_the_thing"]
+	path = apps/what_the_thing
+	url = git@github.com:vigzmv/what_the_thing.git
+	branch = master
+[submodule "apps/FormulaOne"]
+	path = apps/FormulaOne
+	url = git@github.com:srdjanprpa/FormulaOne.git
+	branch = master
+[submodule "apps/den"]
+	path = apps/den
+	url = git@github.com:asamiller/den.git
+	branch = master
+[submodule "apps/duckduckgo-unofficial"]
+	path = apps/duckduckgo-unofficial
+	url = git@github.com:kiok46/duckduckgo.git
+	branch = master
+[submodule "apps/Feline-for-Product-Hunt"]
+	path = apps/Feline-for-Product-Hunt
+	url = git@github.com:arjunkomath/Feline-for-Product-Hunt.git
+	branch = master
+[submodule "apps/react-native-rss-reader"]
+	path = apps/react-native-rss-reader
+	url = git@github.com:christopherdro/react-native-rss-reader.git
+	branch = master
+[submodule "apps/react-native-gh-notetaker"]
+	path = apps/react-native-gh-notetaker
+	url = git@github.com:tylermcginnis/react-native-gh-notetaker.git
+	branch = master
+[submodule "apps/fluxpybird"]
+	path = apps/fluxpybird
+	url = git@github.com:expo/fluxpybird.git
+	branch = master
+[submodule "apps/react-native-instagram-example"]
+	path = apps/react-native-instagram-example
+	url = git@github.com:bgryszko/react-native-example.git
+	branch = master
+[submodule "apps/soundredux-native"]
+	path = apps/soundredux-native
+	url = git@github.com:fraserxu/soundredux-native.git
+	branch = master
+[submodule "apps/guess-famous-people"]
+	path = apps/guess-famous-people
+	url = git@github.com:DimitriMikadze/react-native-game.git
+	branch = master
+[submodule "apps/assemblies"]
+	path = apps/assemblies
+	url = git@github.com:buildreactnative/assemblies.git
+	branch = master
+[submodule "apps/PocketGear"]
+	path = apps/PocketGear
+	url = git@github.com:satya164/PocketGear.git
+	branch = master
+[submodule "apps/GitterMobile"]
+	path = apps/GitterMobile
+	url = git@github.com:JSSolutions/GitterMobile.git
+	branch = master
+[submodule "apps/Timetable"]
+	path = apps/Timetable
+	url = git@github.com:Dennitz/Timetable.git
+	branch = master
+[submodule "apps/Thousanday-Mobile"]
+	path = apps/Thousanday-Mobile
+	url = git@github.com:byn9826/Thousanday-Mobile.git
+	branch = master
+[submodule "apps/pul"]
+	path = apps/pul
+	url = git@github.com:fiber-god/pul.git
+	branch = master
+[submodule "apps/Urbandict"]
+	path = apps/Urbandict
+	url = git@github.com:edwinbosire/Urbandict.git
+	branch = master
+[submodule "apps/hackerweb-native"]
+	path = apps/hackerweb-native
+	url = git@github.com:cheeaun/hackerweb-native.git
+	branch = master
+[submodule "apps/react-native-netflix"]
+	path = apps/react-native-netflix
+	url = git@github.com:mariodev12/react-native-netflix.git
+	branch = master
+[submodule "apps/sequent"]
+	path = apps/sequent
+	url = git@github.com:sobstel/sequent.git
+	branch = master
+[submodule "apps/movieapp"]
+	path = apps/movieapp
+	url = git@github.com:junedomingo/movieapp.git
+	branch = master
+[submodule "apps/reading"]
+	path = apps/reading
+	url = git@github.com:attentiveness/reading.git
+	branch = master
+[submodule "apps/snapchat-clone"]
+	path = apps/snapchat-clone
+	url = git@github.com:VctrySam/SnapChat.git
+	branch = master
+[submodule "apps/HAgnostic-News"]
+	path = apps/HAgnostic-News
+	url = git@github.com:grigio/HAgnostic-News.git
+	branch = master
+[submodule "apps/fifteen"]
+	path = apps/fifteen
+	url = git@github.com:nosovsh/fifteen.git
+	branch = master
+[submodule "apps/react-native-premier-league"]
+	path = apps/react-native-premier-league
+	url = git@github.com:ennioma/react-native-premier-league.git
+	branch = master
+[submodule "apps/react-native-spacepics"]
+	path = apps/react-native-spacepics
+	url = git@github.com:campezzi/react-native-spacepics.git
+	branch = master
+[submodule "apps/react-native-beer"]
+	path = apps/react-native-beer
+	url = git@github.com:muratsu/react-native-beer.git
+	branch = master
