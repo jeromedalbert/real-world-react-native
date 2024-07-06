@@ -1,3 +1,5 @@
+**NOTE: This project is unmaintained. I am leaving it as an archive.**
+
 # Real World React Native
 
 > Real World React Native apps and their open source codebases for developers to learn from
